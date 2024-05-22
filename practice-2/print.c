@@ -1,18 +1,21 @@
-# include <stdio.h> // Header file / library file
+#include <stdio.h> // Header file / library file for input and output functions
 
-int main(){
-  
-  printf("Return something!\n"); // printf is a built-in function
-  printf("Here is the second line!\n"); 
+int main() {
+    // Printing a line of text using printf function
+    printf("Return something!\n"); // \n is an escape character for a new line
+    
+    // Printing another line of text
+    printf("Here is the second line!\n"); // \n moves the cursor to the next line
 
-  printf("//\n"); 
-  printf("%%"); 
-  
-  return 0;
+    // Printing special characters
+    printf("//\n"); // Prints two forward slashes and then moves to a new line
+    printf("%%");   // Prints a percent sign (%)
+
+    return 0; // Indicating that the program ended successfully
 }
 
 // Special characters (ESCAPE)
-// \n - new line, like enter button action in ms-word, txt, docx
-// \t - tab, x spaces     
-
-  
+/*
+\n - new line, like pressing the enter key in a text editor
+\t - tab, equivalent to a few spaces (typically 4 or 8 spaces)
+*/
