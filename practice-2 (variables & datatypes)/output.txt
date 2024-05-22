@@ -1,4 +1,0 @@
-Return something!
-Here is the second line!
-//
-%
