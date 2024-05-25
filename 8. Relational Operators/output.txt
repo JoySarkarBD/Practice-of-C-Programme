@@ -1,0 +1,6 @@
+10 is not equal to 20
+10 is not equal to 20
+10 is not greater than 20
+10 is less than 20
+10 is neither greater than nor equal to 20
+10 is less than or equal to 20
