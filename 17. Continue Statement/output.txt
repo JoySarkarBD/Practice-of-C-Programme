@@ -1,0 +1,12 @@
+Example 1: Using continue in a for loop
+1 2 Skipping iteration for i = 3
+4 5 
+
+Example 2: Using continue in a while loop
+1 2 3 Skipping iteration for j = 4
+5 
+
+Example 3: Using continue in a do-while loop
+1 Skipping iteration for k = 2
+3 4 5 
+
