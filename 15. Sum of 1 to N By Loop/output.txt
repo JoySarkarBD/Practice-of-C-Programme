@@ -1,0 +1,9 @@
+Using For Loop:
+Sum of numbers from 1 to 5: 15
+
+Using While Loop:
+Sum of numbers from 1 to 5: 15
+
+Using Do-While Loop:
+Sum of numbers from 1 to 5: 15
+

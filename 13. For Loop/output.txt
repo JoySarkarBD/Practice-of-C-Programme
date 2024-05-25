@@ -1,0 +1,9 @@
+Example of For Loop (Type-1):
+1 2 3 4 5 
+
+Example of For Loop (Type-2):
+1 2 3 4 5 
+
+Example of For Loop (Type-3):
+1 2 3 4 5 
+
