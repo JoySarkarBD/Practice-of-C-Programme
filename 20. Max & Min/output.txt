@@ -1,0 +1,4 @@
+Enter three numbers (A, B, C):
+You entered: 2, -2, 4
+Minimum number: -2
+Maximum number: 4
