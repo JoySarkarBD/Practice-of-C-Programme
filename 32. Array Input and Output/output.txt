@@ -1,0 +1,3 @@
+Enter the size of the array: Enter 5 elements:
+The elements of the array are:
+10 12 20 10 23 
