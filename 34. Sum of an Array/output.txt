@@ -1,0 +1,2 @@
+Enter the size of the array: Enter 5 elements:
+The sum of the array elements is: 75
