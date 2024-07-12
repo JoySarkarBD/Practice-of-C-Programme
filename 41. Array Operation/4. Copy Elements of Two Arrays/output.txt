@@ -1,0 +1,6 @@
+Enter number of elements in the first array:
+Enter 3 elements for the first array:
+Enter number of elements in the second array:
+Enter 3 elements for the second array:
+Combined array elements:
+10 20 30 40 50 60 

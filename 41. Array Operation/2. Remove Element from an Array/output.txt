@@ -1,0 +1,5 @@
+Enter number of elements in array:
+Enter 5 elements:
+Enter the position of the element to remove:
+Resultant array is:
+10 30 40 50 

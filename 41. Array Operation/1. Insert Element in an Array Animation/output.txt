@@ -1,0 +1,5 @@
+Enter number of elements in array:
+Enter 5 elements:
+Enter the position and value to insert:
+Resultant array is:
+10 430 20 30 40 50 
